@@ -1,7 +1,7 @@
 {
-  "name": "happiness",
-  "description": "JavaScript Happiness Style",
-  "version": "7.1.2",
+  "name": "sane",
+  "description": "JavaScript Sane Style",
+  "version": "1.0.0",
   "author": {
     "email": "feross@feross.org",
     "name": "Feross Aboukhadijeh",
@@ -13,10 +13,12 @@
     "name": "Daniel Cousens"
   }, {
     "name": "Wes Todd"
+  }, {
+    "name": "Mike Miday"
   }],
   "bin": "./bin/cmd.js",
   "bugs": {
-    "url": "https://github.com/JedWatson/happiness/issues"
+    "url": "https://github.com/hanakin/sane/issues"
   },
   "dependencies": {
     "eslint": "~2.10.2",
@@ -36,9 +38,10 @@
     "standard-packages": "^3.0.5",
     "tape": "^4.4.0"
   },
-  "homepage": "https://github.com/JedWatson/happiness",
+  "homepage": "https://github.com/hanakin/sane",
   "keywords": [
     "JavaScript Happiness Style",
+    "JavaScript Sane Style",
     "JavaScript Standard Style",
     "check",
     "checker",
@@ -58,8 +61,10 @@
     "simple",
     "standard",
     "happiness",
+    "sane",
     "standard style",
     "happiness style",
+    "sane style",
     "style",
     "style checker",
     "style linter",
@@ -69,7 +74,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/JedWatson/happiness.git"
+    "url": "git://github.com/hanakin/sane.git"
   },
   "scripts": {
     "update-authors": "./bin/update-authors.sh",
