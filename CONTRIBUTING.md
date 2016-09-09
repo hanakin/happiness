@@ -17,14 +17,14 @@ are welcome:
 
 ## Code Style
 
-[![happiness][happiness-image]][happiness-url]
+[![sane-standard][sane-standard-image]][sane-standard-url]
 
-This repository uses [`happiness`][happiness-url] to maintain code style and consistency,
-and to avoid style arguments. `npm test` runs `happiness` automatically, so you don't have
+This repository uses [`sane-standard`][sane-standard-url] to maintain code style and consistency,
+and to avoid style arguments. `npm test` runs `sane-standard` automatically, so you don't have
 to!
 
-[happiness-image]: https://cdn.rawgit.com/JedWatson/happiness/master/badge.svg
-[happiness-url]: https://github.com/JedWatson/happiness
+[sane-standard-image]: https://cdn.rawgit.com/hanakin/sane-standard/master/badge.svg
+[sane-standard-url]: https://github.com/hanakin/sane-standard
 
 ## Project Governance
 

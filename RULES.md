@@ -1,11 +1,11 @@
-# JavaScript Sane Style
+# JavaScript Sane Standard Style
 
-[![js-sane-style](https://cdn.rawgit.com/hanakin/sane/master/badge.svg)](https://github.com/hanakin/sane)
+[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/sane-standard/master/badge.svg)](https://github.com/hanakin/sane-standard)
 
-This is a TL;DR of the [sane](https://github.com/hanakin/sane) JavaScript
+This is a TL;DR of the [sane-standard](https://github.com/hanakin/sane-standard) JavaScript
 rules.
 
-The best way to learn about `sane` is to just install it and give it a try on
+The best way to learn about `sane-standard` is to just install it and give it a try on
 your code.
 
 ## Rules
