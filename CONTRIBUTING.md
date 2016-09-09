@@ -17,14 +17,14 @@ are welcome:
 
 ## Code Style
 
-[![sane-standard][sane-standard-image]][sane-standard-url]
+[![js-sane-standard][js-sane-standard-image]][js-sane-standard-url]
 
-This repository uses [`sane-standard`][sane-standard-url] to maintain code style and consistency,
+This repository uses [`js-sane-standard`][js-sane-standard-url] to maintain code style and consistency,
 and to avoid style arguments. `npm test` runs `sane-standard` automatically, so you don't have
 to!
 
-[sane-standard-image]: https://cdn.rawgit.com/hanakin/sane-standard/master/badge.svg
-[sane-standard-url]: https://github.com/hanakin/sane-standard
+[js-sane-standard-image]: https://cdn.rawgit.com/hanakin/js-sane-standard/master/badge.svg
+[js-sane-standard-url]: https://github.com/hanakin/js-sane-standard
 
 ## Project Governance
 

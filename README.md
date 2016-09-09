@@ -4,14 +4,14 @@
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 
-[travis-image]: https://img.shields.io/travis/hanakin/sane-standard/master.svg
-[travis-url]: https://travis-ci.org/hanakin/sane-standard
-[npm-image]: https://img.shields.io/npm/v/sane-standard.svg
-[npm-url]: https://npmjs.org/package/sane-standard
-[downloads-image]: https://img.shields.io/npm/dm/sane-standard.svg
-[downloads-url]: https://npmjs.org/package/sane-standard
+[travis-image]: https://img.shields.io/travis/hanakin/js-sane-standard/master.svg
+[travis-url]: https://travis-ci.org/hanakin/js-sane-standard
+[npm-image]: https://img.shields.io/npm/v/js-sane-standard.svg
+[npm-url]: https://npmjs.org/package/js-sane-standard
+[downloads-image]: https://img.shields.io/npm/dm/js-sane-standard.svg
+[downloads-url]: https://npmjs.org/package/js-sane-standard
 
-[Standard](https://github.com/feross/standard) customised to make [me](#maintainers) sane-standard.
+[Standard](https://github.com/feross/standard) customised to keep [me](#maintainers) sane.
 
 This is a fork of Standard with two changes:
 
@@ -25,18 +25,18 @@ If the information you are looking for is not in this readme, you should take a 
 ## Install
 
 ```bash
-$ npm install sane-standard
+$ npm install js-sane-standard
 ```
 
 ## Usage
 
 The easiest way to use JavaScript Sane Standard Style to check your code is to install it
 globally as a Node command line program. To do so, simply run the following command in
-your terminal (flag `-g` installs `sane-standard` globally on your system, omit it if you want
+your terminal (flag `-g` installs `js-sane-standard` globally on your system, omit it if you want
 to install in the current working directory):
 
 ```bash
-$ npm install sane-standard -g
+$ npm install js-sane-standard -g
 ```
 
 After you've done that you should be able to use the `sane-standard` program. The simplest use
@@ -75,16 +75,16 @@ $ npm install --save-dev sane-standard
 Use this in one of your projects? Include one of these badges in your readme to
 let people know that your code is using the standard style.
 
-[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/sane-standard/master/badge.svg)](https://github.com/hanakin/sane-standard)
+[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/js-sane-standard/master/badge.svg)](https://github.com/hanakin/js-sane-standard)
 
 ```markdown
-[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/sane-standard/master/badge.svg)](https://github.com/hanakin/sane-standard)
+[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/js-sane-standard/master/badge.svg)](https://github.com/hanakin/js-sane-standard)
 ```
 
-[![js-sane-standard-style](https://img.shields.io/badge/code%20style-sane-standard-brightgreen.svg)](https://github.com/hanakin/sane-standard)
+[![js-sane-standard-style](https://img.shields.io/badge/code%20style-js-sane-standard-brightgreen.svg)](https://github.com/hanakin/js-sane-standard)
 
 ```markdown
-[![js-sane-standard-style](https://img.shields.io/badge/code%20style-sane-standard-brightgreen.svg)](https://github.com/hanakin/sane-standard)
+[![js-sane-standard-style](https://img.shields.io/badge/code%20style-js-sane-standard-brightgreen.svg)](https://github.com/hanakin/js-sane-standard)
 ```
 
 ### Text editor plugins
@@ -97,12 +97,12 @@ let people know that your code is using the standard style.
 
 ### I want to contribute to `sane-standard`. What packages should I know about?
 
-- **[sane-standard](https://github.com/hanakin/sane-standard)** - this repo
+- **[sane-standard](https://github.com/hanakin/js-sane-standard)** - this repo
   - **[standard-engine](https://github.com/flet/standard-engine)** - cli engine for arbitrary eslint rules
-  - **[eslint-config-happiness](https://github.com/wesleytodd/eslint-config-happiness)** - eslint rules for happiness
+  - **[eslint-config-sane-standard](https://github.com/hanakin/eslint-config-sane-standard)** - eslint rules for happiness
   - **[eslint-plugin-standard](https://github.com/xjamundx/eslint-plugin-standard)** - custom eslint rules for standard (not part of eslint core)
   - **[eslint](https://github.com/eslint/eslint)** - the linter that powers happiness
-- **[sane-standard-format](https://github.com/hanakin/sane-standard-format)** automatic code formatter
+- **[sane-format](https://github.com/hanakin/sane-format)** automatic code formatter
 - **[snazzy](https://github.com/feross/snazzy)** - pretty terminal output for happiness
 
 ## License

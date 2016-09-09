@@ -1,5 +1,5 @@
 {
-  "name": "sane-standard",
+  "name": "js-sane-standard",
   "description": "JavaScript Sane Standard Style",
   "version": "1.0.0",
   "author": {
@@ -18,7 +18,7 @@
   }],
   "bin": "./bin/cmd.js",
   "bugs": {
-    "url": "https://github.com/hanakin/sane-standard/issues"
+    "url": "https://github.com/hanakin/js-sane-standard/issues"
   },
   "dependencies": {
     "eslint": "~2.10.2",
@@ -38,7 +38,7 @@
     "standard-packages": "^3.0.5",
     "tape": "^4.4.0"
   },
-  "homepage": "https://github.com/hanakin/sane-standrad",
+  "homepage": "https://github.com/hanakin/js-sane-standrad",
   "keywords": [
     "JavaScript Happiness Style",
     "JavaScript Sane Standard Style",
@@ -76,7 +76,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hanakin/sane-standard.git"
+    "url": "git://github.com/hanakin/js-sane-standard.git"
   },
   "scripts": {
     "update-authors": "./bin/update-authors.sh",
