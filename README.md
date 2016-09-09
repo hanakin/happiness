@@ -30,7 +30,7 @@ $ npm install sane-standard
 
 ## Usage
 
-The easiest way to use JavaScript Happiness Style to check your code is to install it
+The easiest way to use JavaScript Sane Standard Style to check your code is to install it
 globally as a Node command line program. To do so, simply run the following command in
 your terminal (flag `-g` installs `sane-standard` globally on your system, omit it if you want
 to install in the current working directory):
