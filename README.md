@@ -4,7 +4,7 @@
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 
-[travis-image]: https://travis-ci.org/hanakin/sane.svg?branch=master
+[travis-image]: https://img.shields.io/travis/hanakin/sane/master.svg
 [travis-url]: https://travis-ci.org/hanakin/sane
 [npm-image]: https://img.shields.io/npm/v/sane.svg?style=flat
 [npm-url]: https://npmjs.org/package/sane
