@@ -29,7 +29,7 @@ your code.
 
   ```js
   function myFunction () {
-    var result = something()   // ✗ avoid
+      var result = something()   // ✗ avoid
   }
   ```
 
@@ -96,19 +96,19 @@ your code.
   ```js
   // ✓ ok
   if (condition) {
-    // ...
+      // ...
   } else {
-    // ...
+      // ...
   }
   ```
 
   ```js
   // ✗ avoid
   if (condition) {
-    // ...
+      // ...
   }
   else {
-    // ...
+      // ...
   }
   ```
 
@@ -122,14 +122,14 @@ your code.
   ```js
   // ✓ ok
   if (options.quiet !== true) {
-    console.log('done')
+      console.log('done')
   }
   ```
 
   ```js
   // ✗ avoid
   if (options.quiet !== true)
-    console.log('done')
+      console.log('done')
   ```
 
 * **Always handle the** `err` function parameter.
@@ -137,15 +137,15 @@ your code.
   ```js
   // ✓ ok
   run(function (err) {
-    if (err) throw err
-    window.alert('done')
+      if (err) throw err
+      window.alert('done')
   })
   ```
 
   ```js
   // ✗ avoid
   run(function (err) {
-    window.alert('done')
+      window.alert('done')
   })
   ```
 
@@ -180,13 +180,13 @@ your code.
 
   // ✓ ok
   var location = env.development
-    ? 'localhost'
-    : 'www.api.com'
+      ? 'localhost'
+      : 'www.api.com'
 
   // ✗ avoid
   var location = env.development ?
-    'localhost' :
-    'www.api.com'
+      'localhost' :
+      'www.api.com'
   ```
 
 * **For var declarations,** write each declaration in its own statement.
@@ -209,12 +209,12 @@ your code.
   ```js
   // ✓ ok
   while ((m = text.match(expr))) {
-    // ...
+      // ...
   }
 
   // ✗ avoid
   while (m = text.match(expr)) {
-    // ...
+      // ...
   }
   ```
 *
