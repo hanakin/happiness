@@ -1,11 +1,11 @@
-# JavaScript Happiness Style
+# JavaScript Sane Style
 
-[![js-happiness-style](https://cdn.rawgit.com/KedWatson/happiness/master/badge.svg)](https://github.com/JedWatson/happiness)
+[![js-sane-style](https://cdn.rawgit.com/hanakin/sane/master/badge.svg)](https://github.com/hanakin/sane)
 
-This is a TL;DR of the [happiness](https://github.com/JedWatson/happiness) JavaScript
+This is a TL;DR of the [sane](https://github.com/hanakin/sane) JavaScript
 rules.
 
-The best way to learn about `happiness` is to just install it and give it a try on
+The best way to learn about `sane` is to just install it and give it a try on
 your code.
 
 ## Rules
