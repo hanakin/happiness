@@ -18,7 +18,7 @@ This is a fork of Standard with two changes:
 - **4 Space Soft Tabs** for indentions
 - **Semicolons** always
 
-It is called sane, because I hope that it brings you sanity the same as it does for me.
+It is called sane, because I hope that it brings you sanity the same as it does for me!
 
 If the information you are looking for is not in this readme, you should take a look at the [Standard readme](https://github.com/feross/standard), it might have what you are looking for.
 
