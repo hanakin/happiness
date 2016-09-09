@@ -10,11 +10,11 @@ your code.
 
 ## Rules
 
-* **Use tabs** for indentation.
+* **Use 4 space soft tabs** for indentation.
 
   ```js
   function hello (name) {
-	console.log('hi', name)
+      console.log('hi', name)
   }
   ```
 
