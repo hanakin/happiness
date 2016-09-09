@@ -1,7 +1,7 @@
 {
   "name": "js-sane-standard",
   "description": "JavaScript Sane Standard Style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "email": "feross@feross.org",
     "name": "Feross Aboukhadijeh",
