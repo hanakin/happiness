@@ -6,9 +6,9 @@
 
 [travis-image]: https://img.shields.io/travis/hanakin/sane/master.svg
 [travis-url]: https://travis-ci.org/hanakin/sane
-[npm-image]: https://img.shields.io/npm/v/sane.svg?style=flat
+[npm-image]: https://img.shields.io/npm/v/sane.svg
 [npm-url]: https://npmjs.org/package/sane
-[downloads-image]: https://img.shields.io/npm/dm/sane.svg?style=flat
+[downloads-image]: https://img.shields.io/npm/dm/sane.svg
 [downloads-url]: https://npmjs.org/package/sane
 
 [Standard](https://github.com/feross/standard) customised to make [me](#maintainers) sane.
