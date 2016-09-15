@@ -1,27 +1,14 @@
 {
   "name": "js-sane-standard",
-  "description": "JavaScript Sane Standard Style",
-  "version": "1.0.3",
+  "description": "JavaScript Sane Standard Style - standard modified for my sanity",
+  "version": "1.1.0",
   "author": {
-    "email": "feross@feross.org",
-    "name": "Feross Aboukhadijeh",
-    "url": "http://feross.org/"
+    "email": "hanakin.dev@gmail.com",
+    "name": "@hanakin (Mike Miday)"
   },
-  "contributors": [
-    {
-      "name": "Jed Watson"
-    },
-    {
-      "name": "Daniel Cousens"
-    },
-    {
-      "name": "Wes Todd"
-    },
-    {
-      "name": "Mike Miday"
-    }
-  ],
-  "bin": "./bin/cmd.js",
+  "bin": {
+    "sane": "./bin/cmd.js"
+},
   "bugs": {
     "url": "https://github.com/hanakin/js-sane-standard/issues"
   },
@@ -84,11 +71,6 @@
     "url": "git://github.com/hanakin/js-sane-standard.git"
   },
   "scripts": {
-    "update-authors": "./bin/update-authors.sh",
-    "test": "./bin/cmd.js --verbose && tape test/*.js",
-    "test-disabled": "npm test -- --disabled",
-    "test-offline": "npm test -- --offline",
-    "test-offline-quick": "npm test -- --offline --quick",
-    "test-quick": "npm test -- --quick"
+    "test": "./bin/cmd.js --verbose && tape test/*.js"
   }
 }
