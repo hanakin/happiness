@@ -12,12 +12,12 @@
   "dependencies": {
     "eslint": "~3.4.0",
     "eslint-config-standard": "6.0.0",
-    "eslint-config-sane-jsx": "^1.1.0",
-    "eslint-config-sane-standard": "^1.1.0",
+    "eslint-plugin-standard": "^2.0.0",
     "eslint-plugin-promise": "^2.0.1",
     "eslint-plugin-react": "^6.0.0",
-    "eslint-plugin-standard": "^2.0.0",
-    "standard-engine": "^5.0.0"
+    "eslint-config-sane-jsx": "^1.1.0",
+    "eslint-config-sane-standard": "^1.1.0",
+    "standard-engine": "^5.1.0"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.0",
@@ -69,6 +69,10 @@
     "url": "git://github.com/hanakin/js-sane-standard.git"
   },
   "scripts": {
-    "test": "./bin/cmd.js --verbose && tape test/*.js"
+    "test": "./bin/cmd.js --verbose && tape test/*.js",
+    "test-disabled": "npm test -- --disabled",
+    "test-offline": "npm test -- --offline",
+    "test-offline-quick": "npm test -- --offline --quick",
+    "test-quick": "npm test -- --quick"
   }
 }
