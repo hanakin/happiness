@@ -6,9 +6,6 @@
     "email": "hanakin.dev@gmail.com",
     "name": "@hanakin (Mike Miday)"
   },
-  "bin": {
-    "sane": "./bin/cmd.js"
-},
   "bugs": {
     "url": "https://github.com/hanakin/js-sane-standard/issues"
   },
